@@ -1,5 +1,9 @@
 # SwasthBot 🩺
 
+[![CI](https://github.com/erohanc/SwasthBot/actions/workflows/ci.yml/badge.svg)](https://github.com/erohanc/SwasthBot/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.10%20%7C%203.11-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 A lightweight, **privacy-aware healthcare assistant** built with **FastAPI**.  
 SwasthBot provides:
 - Symptom triage (rule-based) with transparent reasoning
